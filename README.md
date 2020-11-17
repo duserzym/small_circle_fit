@@ -2,6 +2,7 @@
 repo for doing small circle fits on sphere
 
 The useful websites that I went through when coding this up are:
+
 https://math.stackexchange.com/questions/943383/determine-circle-of-intersection-of-plane-and-sphere
 https://math.stackexchange.com/questions/17664/the-equation-of-a-circle-on-sphere
 http://www.ambrsoft.com/TrigoCalc/Sphere/SpherePlaneIntersection_.htm
@@ -12,6 +13,7 @@ https://math.stackexchange.com/questions/73237/parametric-equation-of-a-circle-i
 
 
 some useful websites for least square fits:
+
 https://www.geometrictools.com/Documentation/LeastSquaresFitting.pdf
 http://www.ncorr.com/download/publications/eberlyleastsquares.pdf
 https://stackoverflow.com/questions/63696616/fitting-a-plane-by-orthogonal-regression-in-python
