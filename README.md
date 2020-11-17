@@ -9,3 +9,9 @@ https://zhuanlan.zhihu.com/p/113501566
 https://stackoverflow.com/questions/15481242/python-optimize-leastsq-fitting-a-circle-to-3d-set-of-points/15786868
 https://meshlogic.github.io/posts/jupyter/curve-fitting/fitting-a-circle-to-cluster-of-3d-points/
 https://math.stackexchange.com/questions/73237/parametric-equation-of-a-circle-in-3d-space/73242
+
+
+some useful websites for least square fits:
+https://www.geometrictools.com/Documentation/LeastSquaresFitting.pdf
+http://www.ncorr.com/download/publications/eberlyleastsquares.pdf
+https://stackoverflow.com/questions/63696616/fitting-a-plane-by-orthogonal-regression-in-python
